@@ -44,6 +44,10 @@ body{
     color: #fff;
   
   }
+  .active, .nav-link:hover {
+    background: rgb(54, 54, 54);
+    color:#e58e26 !important;
+  }
   
 .nav-link{
     color: #fff !important;
