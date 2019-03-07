@@ -424,6 +424,9 @@ body{
      cursor: pointer;
   }
 
+
+
+  /*************************RESPONSIVE MOBILE DEVICES************************/
   @media(max-width:449px){
     .navbar{
       border-top: 1px solid rgba(141, 108, 35, 0.8);
