@@ -8,6 +8,7 @@ body{
 }
 #shop-nav{
     border-top: 1px solid rgba(141, 108, 35, 0.6);
+    border-bottom: 1px solid rgba(141, 108, 35, 0.6);
 }
 .catagory-list{
     margin: 50px auto;

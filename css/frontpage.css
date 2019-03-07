@@ -126,7 +126,7 @@ body{
     left: 0;
     right: 0;
     bottom: 0;
-    z-index:11 ;
+    z-index:11;
 }
 
 
@@ -422,6 +422,52 @@ body{
      font-size: 21px;
      margin-right: 8px;
      cursor: pointer;
+  }
+
+  @media(max-width:449px){
+    .navbar{
+      border-top: 1px solid rgba(141, 108, 35, 0.8);
+      border-bottom: 1px solid rgba(141, 108, 35, 0.8);
+    }
+    .navbar-brand{
+      font-size: 15px;
+      height: auto;
+    }
+    .navbar-nav{
+      margin-top: 15px !important;
+      border-top: 1px solid rgba(141, 108, 35, 0.8);
+      width: 100% !important;
+    }
+    .nav-item{
+      width: 100% !important;
+      margin: 0;
+      padding: 0;
+    }
+    .nav-link{
+      padding-left: 8px !important;
+      width: 100% !important;
+      
+    }
+    .banner-title {
+      
+      width: 40%;
+      
+  }
+  .header{
+    height: 82vh;
+  }
+  .banner-bottom-image{
+    height: 180px;
+
+  }
+  .banner-bottom-title{
+    width: 100%;
+  }
+  .banner-bottom-title h1{
+    font-size: 20px;
+    word-break: keep-all;
+    text-align: justify;
+  }
   }
 
 
