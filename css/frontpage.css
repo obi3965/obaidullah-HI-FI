@@ -17,8 +17,8 @@ body{
     background: black !important;
     padding: 16px;
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
-    z-index: 100;
-    opacity:.99 ;
+    
+    
   
 }
 .navbar-brand {
@@ -61,7 +61,7 @@ body{
 }
 
 .header{
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
      url("https://www.hificorner.co.uk/img/new-home-1.jpg");
     height: 100vh;
     background-position:center;
@@ -92,6 +92,7 @@ body{
     height: 170px;
     position: relative;
     border-radius: 6px;
+    
 }
 
 .banner-title h1 {
@@ -100,6 +101,7 @@ body{
     left: 3%;
     color: white;
     letter-spacing: 1px;
+    
 
 }
 
@@ -126,7 +128,7 @@ body{
     left: 0;
     right: 0;
     bottom: 0;
-    z-index:11;
+    z-index: 100;
 }
 
 
@@ -257,7 +259,7 @@ body{
     position: absolute;
     top:43%;
     left: 35%;
-    color: #684f31;
+    color: #f18f16;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 0.8px;
@@ -384,16 +386,14 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-  
+   
   }
   .bottom-footer-item2 img{
     width: 50px;
     height: 20px;
     cursor: pointer;
   }
-  .active, .home:hover {
-    color:#e58e26;
-  }
+  
   .bottom-footer-item1{
     display: flex;
     justify-content: space-around;
@@ -441,14 +441,15 @@ body{
     .navbar{
       border-top: 1px solid rgba(141, 108, 35, 0.8);
       border-bottom: 1px solid rgba(141, 108, 35, 0.8);
-      position: relative;
+      position: absolute;
+      z-index: 100;
+      left: 0;
+      right: 0;
     }
     .navbar-brand{
       font-size: 15px;
       height: auto;
-      position: absolute;
-     right: 0;
-     top: 15px;
+      
      
     }
     .navbar-nav{
@@ -466,25 +467,27 @@ body{
       width: 100% !important;
       
     }
+    .banner{
+      margin-top: 30%;
+    }
     .banner-title {
-      
       width: 40%;
       
   }
   .header{
-    height: 82vh;
+    height: 90vh;
   }
   .banner-bottom-image{
     height: 180px;
 
   }
   .banner-bottom-title{
-    width: 100%;
+    width:100%;
   }
   .banner-bottom-title h1{
     font-size: 20px;
-    word-break: keep-all;
-    text-align: justify;
+    word-break: break-all;
+    
   }
   
 
@@ -517,11 +520,37 @@ body{
   top: 18.5%;
   left: 34%;
 }
-  }
-
-
+#footer{
+  height: auto;
+}
+.bottom-footer{
+  flex-wrap: wrap;
+  padding-bottom:10px;
  
- 
+}
+ .bottom-footer-item1{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   flex: 0 0 100%;
+  padding:8px; 
+ }
+ .bottom-footer-text1{
+    font-size: 15px;
+    padding:8px;
+    width: 90%;
+ }
+ .bottom-footer-item1 h3{
+   font-size: 20px;
+ }
+ .bottom-footer-text2 a{
+  font-size: 15px;
+  padding:8px;
+ }
+ .bottom-footer-item2{
+  flex:0 0 90%;
+  margin: auto;
+ }
 
-
+ }
  
