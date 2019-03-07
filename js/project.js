@@ -9,22 +9,23 @@ document.addEventListener('DOMContentLoaded', function(){
     slides.forEach((ignore, index) =>{
         let element = '<input type="radio" name="changedots" value="' + index + '">';
         sliderDots.insertAdjacentHTML('beforeend', element);
+        
     });
 
     //we can also do it with forloop, just an example
     /*for(var i = 0; i < slides.length; i++){
         let element = 'input type="radio" name="changedots" value="' + i +'">';
         sliderDots.insertAdjacentHTML('beforeend', element);
-    }*/
-/*/
+    }
+
     function showSlide(n){
         slides.forEach(slide => {
             slide.style.display = "none";
         });
         slides[n].style.display = "block";
         sliderDots.querySelectorAll('input')[n].checked = true;
-    }
-*/
+    }*/
+
     function showSlide(n){
         slides.forEach(slide => {
             slide.style.opacity = 0;

@@ -61,8 +61,8 @@ body{
 }
 
 .header{
-    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.7)),
-     url("https://i.pinimg.com/originals/9c/0b/6f/9c0b6ff9bd597291d21ca23fbee1e319.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+     url("https://www.hificorner.co.uk/img/new-home-1.jpg");
     height: 100vh;
     background-position:center;
     background-repeat: no-repeat;
@@ -143,7 +143,7 @@ body{
 
 
 #heroslider{
-    height: 500px;
+    height: 520px;
     position: relative;
  
  }
@@ -179,31 +179,30 @@ body{
      margin: 0;
      padding: 0;
  }
- #slides {
+ #slides div {
      /*position text div inside gallary*/
      position: absolute;
      top: 0;
      left: 0%;
+     bottom: 0;
      width: 100%;
      margin: auto;
      height: 100%;
      /*position text on top of background*/
-     display: flex;
-     flex-direction: column;
-     justify-content: center;
-     background-color: rgb(55, 0, 255);
+     
+     
  }
  
  
  
  #slides li{
      /*hide all slides- visibility controlled bj js*/
-    height: 380px;
+    height: 100%;
     /*display: none;*/
     position: absolute;
     width: 100%;
     transition: opacity 0.3s ease-in;
- 
+     
  }
  
  /*remove css below when implementing js*/
@@ -217,7 +216,8 @@ body{
      width: 100%;
      display: flex;
      justify-content: center;
-    /* display: none;*/
+     
+     display: none;
  }
  
  #sliderDots input[type=radio]{
@@ -226,25 +226,26 @@ body{
      appearance: none;
      width: 16px;
      height: 16px;
+     border: 1px solid #e58e26 !important;
      border-radius: 50%;
-     background: green;
-     border: 2px solid blue;
+     background: green !important;
      margin: 4px;
      cursor: pointer;
  }
  
  #sliderDots input[type=radio]:checked{
-     background: red;
+     background: red !important;
      -webkit-appearance: none;
      -moz-appearance: none;
      appearance: none;
+     
  }
  
  #slider-items{
      display: flex;
      justify-content: space-around;
      align-items: center;
-     width: 60%;
+     width: 100%;
      margin: auto;
      background: white;
      margin-top: 10px;
@@ -253,15 +254,24 @@ body{
  
  #slides h1{
     align-self: flex-start;
-    flex-grow:1; 
-    margin-top: 20px;
+    position: absolute;
+    top:43%;
+    left: 35%;
+    color: #684f31;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    font-weight: 600;
   }
 
   #slides img{
       align-self: flex-end;
-      max-width: 400px;
-      height: 100%;
-      flex-grow: 2;
+      width: 100%;
+      height: 520px;
+      
+  }
+  .fa-chevron-left, .fa-chevron-right{
+    color: #e58e26;
   }
 
   .footer-image{
@@ -272,8 +282,8 @@ body{
     
   }
   .top-footer1-image{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
-    url("https://img.canuckaudiomart.com/uploads/large/1150709-pioneer-amplifier-sa8500-ii.jpg"); 
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+    url("https://www.hificorner.co.uk/img/social-1.jpg"); 
     width: 100%;
     height: 370px;
     margin: auto;
@@ -284,13 +294,13 @@ body{
   }
   .top-footer1-image:hover{
     background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),
-    url("https://img.canuckaudiomart.com/uploads/large/1150709-pioneer-amplifier-sa8500-ii.jpg"); 
+    url("https://www.hificorner.co.uk/img/social-1.jpg"); 
     transition: all 8s ease 800ms;
     cursor: pointer;
   }
   .top-footer2-image{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
-    url("https://www.imore.com/sites/imore.com/files/styles/large_wm_brw/public/field/image/2016/06/bose-quietcomfort-35.jpg?itok=QN86G0Dq"); 
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+    url("https://www.hificorner.co.uk/img/social-2.jpg"); 
     width: 100%;
     height: 370px;
     margin: auto;
@@ -302,13 +312,13 @@ body{
   
   .top-footer2-image:hover{
     background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),
-    url("https://www.imore.com/sites/imore.com/files/styles/large_wm_brw/public/field/image/2016/06/bose-quietcomfort-35.jpg?itok=QN86G0Dq"); 
+    url("https://www.hificorner.co.uk/img/social-2.jpg"); 
     transition: all 8s ease 800ms;
     cursor: pointer;
   }
   .top-footer3-image{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
-    url("http://www.stagecraftsoftware.com/wp-content/uploads/ST-vinyl.png"); 
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+    url("https://www.hificorner.co.uk/img/social-3.jpg"); 
     width: 100%;
     height: 370px;
     margin: auto;
@@ -320,7 +330,7 @@ body{
   }
   .top-footer3-image:hover{
     background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),
-    url("http://www.stagecraftsoftware.com/wp-content/uploads/ST-vinyl.png"); 
+    url("https://www.hificorner.co.uk/img/social-3.jpg"); 
     transition: all 8s ease 800ms;
     cursor: pointer;
   }
@@ -431,10 +441,15 @@ body{
     .navbar{
       border-top: 1px solid rgba(141, 108, 35, 0.8);
       border-bottom: 1px solid rgba(141, 108, 35, 0.8);
+      position: relative;
     }
     .navbar-brand{
       font-size: 15px;
       height: auto;
+      position: absolute;
+     right: 0;
+     top: 15px;
+     
     }
     .navbar-nav{
       margin-top: 15px !important;
@@ -471,6 +486,37 @@ body{
     word-break: keep-all;
     text-align: justify;
   }
+  
+
+#slides h1{
+   text-align: center;
+   left: 20%;
+   font-size: 22px;
+   top: 46%;
+ }
+
+ #heroslider{
+    height: 300px;
+     width: 100%;
+     
+ }
+ #slides img{
+   width: 100%;
+   height: 100%;
+ }
+.footer-image{
+  display: flex;
+  flex-direction: column;
+}
+.top-footer1-image, .top-footer2-image, .top-footer3-image{
+  height: 200px;
+  position: relative;
+}
+.facebook{
+  position: absolute;
+  top: 18.5%;
+  left: 34%;
+}
   }
 
 
