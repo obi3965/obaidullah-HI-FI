@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "My Spk A",
+        "price": 100,
+        "categoryID": 10
+    },
+    {
+        "id": 2,
+        "name": "My Spk B",
+        "price": 150,
+        "categoryID": 10
+    },
+    {
+        "id": 3,
+        "name": "My Cab A",
+        "price": 200,
+        "categoryID": 20
+    },
+    {
+        "id": 4,
+        "name": "My Spk C",
+        "price": 300,
+        "categoryID": 10
+    },
+    {
+        "id": 5,
+        "name": "My Awesome Cable",
+        "price": 300,
+        "categoryID": 20
+    }
+
+]

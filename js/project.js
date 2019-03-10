@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
+    
     var slider = document.querySelector('#heroslider');
     var slides = slider.querySelectorAll('li');
     var sliderDots = document.querySelector('#sliderdots');

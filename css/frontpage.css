@@ -4,8 +4,11 @@
 @import url("./css/brand.css");
 @import url("./css/shop.css");
 @import url("./css/event.css");
+@import url("./amplifier.css");
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 .bars{
     background: white !important;
