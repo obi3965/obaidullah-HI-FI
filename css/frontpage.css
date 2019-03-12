@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900');
-@import url("./css/about.css");
-@import url("./css/blog.css");
-@import url("./css/brand.css");
-@import url("./css/shop.css");
-@import url("./css/event.css");
-@import url("./amplifier.css");
+@import url("about.css");
+@import url("blog.css");
+@import url("brand.css");
+@import url("shop.css");
+@import url("event.css");
+@import url("amplifier.css");
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
