@@ -4,14 +4,19 @@ body{
     margin: 0;
     padding: 0;
 }
-.aside{
-    background: grey;
+.nav{
     width: 100%;
-    height: 80vh;
+    background: rgb(206, 202, 202);
 }
-
-.main{
-    background: blue;
+.nav a{
+    color: black !important;
+    background: none !important;
+}
+#card1{
+    float: left;
+}
+#output{
     width: 100%;
-    height: 80vh;
+    height: 100%;
+    
 }
