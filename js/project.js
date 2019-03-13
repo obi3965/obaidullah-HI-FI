@@ -102,10 +102,11 @@ document.addEventListener('DOMContentLoaded', function(){
     }
     
     document.querySelector('#btn1').addEventListener('click', getCatagoryData);
-
+     const urlParams = new URLSearchParams(window.location.search);
+     const amplifierID = urlParams.get('id');
     //we will create a function to getusers
     function getCatagoryData(){
-        fetch('catagory.json').then((res) => res.json()).then((data)=>{
+        fetch('amplifier.json').then((res) => res.json()).then((data)=>{
             let output = '';
             data.forEach(function(amplifier) {
         output +=  `
@@ -114,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function(){
          <li> ${amplifier.name}</li>
          <li>${amplifier.price}</li>
          
-         <li><a href="showoneproduct.html?productID=${amplifier.id}">Buy</a></li>
+         <button><a href="showoneproduct.html?productID=${amplifier.id}">add to cart</a></button>
          </ul>
         `;
                 
