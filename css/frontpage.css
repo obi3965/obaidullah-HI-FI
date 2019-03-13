@@ -436,7 +436,10 @@ body{
      margin-right: 8px;
      cursor: pointer;
   }
-
+  .footer-btn a{
+    color: white !important;
+    text-decoration: none;
+  }
 
 
   /*************************RESPONSIVE MOBILE DEVICES************************/
