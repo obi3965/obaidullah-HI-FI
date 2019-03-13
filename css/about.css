@@ -382,3 +382,71 @@ body{
 .sheeping-text2{
     display: flex;
 }
+
+
+@media(max-width:449px){
+
+    .about-text{
+        margin-top: 30%;
+    }
+    .about-text h1{
+        font-size: 20px;
+    }
+    .banner-image{
+        height: 55vh;
+    }
+    .about-banner{
+        padding-top: 28%;
+    }
+    .about-banner-title{ 
+        width: 90%;
+        
+    }
+    .about-banner-title a{
+        font-size: 19px;
+    }
+    .about-banner-title h1{
+        font-size: 20px;
+    }
+    .fa-dollar-sign, .fa-box-open, .fa-headphones-alt, .fa-exchange-alt{
+       
+        width: 54px;
+        height: 54px;
+       
+    }
+    .sheeping-icon i{
+        font-size: 25px;
+        cursor: pointer;
+    }
+    .icon span{
+        font-size: 10px;
+    }
+    .sheeping-text1 p, .sheeping-text2 p{
+        font-size: 14px;
+    }
+    .about1-image img, .advice-image img{
+        width: 100%;
+        height: 100%;
+    }
+    .about1-para h1, .about3-para h1, .service-para h1, .tailored-para h1,
+    .advice-para h1{
+        font-weight: 300;
+        font-size: 22px;
+    }
+    .para1, .para2, .service-para1, .tailored-text1, .advice-para1{
+        font-weight: 300;
+        font-size: 15.6px;
+    }
+    .about2-para, .about4-para, .service-para p, .tailored-text2, .tailored-text3,
+    .tailored-text4,.advice-para p {
+        word-break: keep-all;
+        font-size: 16px;
+    }
+    .about3-para, .tailored-para{
+        width: 100%;
+    }
+    .service-image img{
+        width: 100%;
+        height: 100%;
+    }
+}

@@ -75,15 +75,15 @@ body{
     @media(max-width:449px){
       .catagory-list{
           position: relative;
-          width: 95%;
+          width: 90%;
           margin:40% auto;
       }
       .catagory-image {
         position: relative;
-        width: 300px;
+        width: 320px;
         height: 280px;
         cursor: pointer;
-        margin-left: 20px;
+        margin-left: 8px;
         
       }
       .catagory-image img {
