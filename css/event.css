@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#event-section1, #event-section2, #event-section3, #event-section4{
+    width: 96%;
+    margin:32px auto;
+    display: flex;
+    justify-content: center;
+
+}
+.event-image1, .event-image2{
+    width: 100%;
+}
+.event-image2 img{
+    height: 400px;
+}
+.event-desc, .event-desc2{
+    width: 100%;
+    background: rgb(228, 225, 225);
+    text-align: center;
+    padding: 15px;
+    
+}

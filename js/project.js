@@ -102,8 +102,7 @@ document.addEventListener('DOMContentLoaded', function(){
     }
     
     document.querySelector('#btn1').addEventListener('click', getCatagoryData);
-     const urlParams = new URLSearchParams(window.location.search);
-     const amplifierID = urlParams.get('id');
+     
     //we will create a function to getusers
     function getCatagoryData(){
         fetch('amplifier.json').then((res) => res.json()).then((data)=>{
@@ -124,7 +123,61 @@ document.addEventListener('DOMContentLoaded', function(){
         })
     }
 
+
+
+    
+
+    
+
 });
 
 
-
+window.onload = function(){
+    console.log('dom has loaded');
+    var router = function(name, routes){
+        return{
+            name:name,
+            routes: routes
+        }
+    };
+    
+    var myFirstRouter = new router('myFirstRouter'[
+       {
+           path: '/mainpage.html',
+           name: 'home'
+       },
+       {
+        path: '/about us',
+        name: 'about us'
+    }, 
+    {
+        path: '/brands',
+        name: 'brands'
+    }, 
+    {
+        path: '/blog',
+        name: 'blog'
+    }, 
+    {
+        path: '/events',
+        name: 'events'
+    }, 
+    {
+        path: '/shop',
+        name: 'shop'
+    },
+    {
+        path: '/contact',
+        name: 'contact'
+    }  
+    ]);
+    var currentPath = window.location.pathname;
+    console.log(currentPath)
+    if(currentPath == '/'){
+        
+    }else{
+        var route = myFirstRouter.routes.filter(function(r){
+            return r.path === currentPath
+        })[0];
+    }
+}
