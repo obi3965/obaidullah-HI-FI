@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "navn": "Shop By Brand"
+    },
+    {
+        "id": 2,
+        "navn": "Amplifiers"
+    },
+    {
+        "id": 3,
+        "navn": "Speakers"
+    },
+    {
+        "id": 4,
+        "navn": "Turntables"
+    },
+    {
+        "id": 5,
+        "navn": "CD players"
+    },
+    {
+        "id": 6,
+        "navn": "Streamers"
+    },
+    {
+        "id": 7,
+        "navn": "Cables"
+    },
+    {
+        "id": 8,
+        "navn": "furnitures"
+    },
+    {
+        "id": 9,
+        "navn": "Headphones"
+    },
+    {
+        "id": 10,
+        "navn": "Home Cinema"
+    },
+    {
+        "id": 11,
+        "navn": "OUTLET - SAVE UP TO 50% OFF"
+    },
+    {
+        "id": 12,
+        "navn": "Ebay-Shop"
+    },
+    {
+        "id": 13,
+        "navn": "CEILING SPEAKERS"
+    },
+    {
+        "id": 15,
+        "navn": "TVS"
+    },
+    {
+        "id": 16,
+        "navn": "VINYL LPS"
+    }
+]
