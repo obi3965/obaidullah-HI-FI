@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function(){
+
     
     var slider = document.querySelector('#heroslider');
     if (slider != null){
@@ -101,83 +101,104 @@ document.addEventListener('DOMContentLoaded', function(){
     
     }
     
-    document.querySelector('#btn1').addEventListener('click', getCatagoryData);
+    document.querySelector("#locality-dropdown").addEventListener('change', function(){
+    
+        console.log(this.value); 
+         getCatagoryData(this.value)
+     })
+     document.querySelector('#btn1').addEventListener('click', ()=>{
+         getCatagoryData("amplifiers")
+     })
      
-    //we will create a function to getusers
-    function getCatagoryData(){
-        fetch('amplifier.json').then((res) => res.json()).then((data)=>{
-            let output = '';
-            data.forEach(function(amplifier) {
-        output +=  `
-         <ul id="card1">
-         <li><img class="image_1" src="${amplifier.url}"></li>
-         <li> ${amplifier.name}</li>
-         <li>${amplifier.price}</li>
+     document.querySelector('#btn2').addEventListener('click', ()=>{
+         getCatagoryData("speakers")
+     });
+     //const urlParams = new URLSearchParams(window.location.search);
+     //const amplifierID = urlParams.get('id');
+     //we will create a function to getusers
+     
+         function getCatagoryData(catagory){
+            fetch(catagory+'.json').then((res) => res.json()).then((data)=>{
+                let output = '';
+                data.forEach(function(cat) {
+            output +=  `
+             <ul id="card1">
+             <li><img class="image_1" src="${cat.image}"></li>
+             <li class="navn"> ${cat.navn}</li>
+             <li>${cat.pris}</li>
+             
+             <button><a href="showoneproduct.html?productID=${cat.id}">add to cart</a></button>
+             </ul>
+            `;
+                    
+                });
+                document.getElementById('output').innerHTML = output;
+            })
+         }
+     
+     /*
+     function getMovieTitle(data1){
+         var xmlhttp;
+         if(window.XMLHttpRequest){
+             xmlhttp = new XMLHttpRequest();
+         }else{
+             xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+         }
+         xmlhttp.onreadystatechange = function(){
+             if(xmlhttp.readyState == 4 && xmlhttp.status == 200){
+                 jsondata = JSON.parse(xmlhttp.responseText);
+                 var catagories = jsondata.catagory;
+                 var output = '<form>';
+                   output+='<select id="movie_select" onchange="movieSelect"';
+                 ;
+     
+                 data1.forEach(function(catagory){
+                     output+=  '<option value="+i+">'+catagory[i].price+'</option>';
+                 })
+                 output+='</select';
+                 output+='</form>';
+                 document.getElementById("movie_title").innerHTML = output;
+             }
+             
+         }
+         xmlhttp.open("GET","catagory.json", true);
+         xmlhttp.send();
+     }*/
+     
+     
+     let dropdown = document.getElementById('locality-dropdown');
+     dropdown.length = 0;
+     
+     fetch("catagories.json")  
+       .then(  
+         function(response) {  
+           if (response.status !== 200) {  
+             console.warn('Looks like there was a problem. Status Code: ' + 
+               response.status);  
+             return;  
+           }
+     
+           // Examine the text in the response  
+           response.json().then(function(CatagorydropDownData) {  
+             let option;
          
-         <button><a href="showoneproduct.html?productID=${amplifier.id}">add to cart</a></button>
-         </ul>
-        `;
-                
-            });
-            document.getElementById('output').innerHTML = output;
-        })
-    }
+             for (let i = 0; i < CatagorydropDownData.length; i++) {
+               option = document.createElement('option');
+                 option.text = CatagorydropDownData[i].navn;
+                 option.value = CatagorydropDownData[i].navn;
+                 dropdown.add(option);
+             }    
+           });  
+         }  
+       )  
+       .catch(function(err) {  
+         console.error('Fetch Error -', err);  
+       });
+     
+     
+     
+       
 
 
 
-    
 
-    
-
-});
-
-
-window.onload = function(){
-    console.log('dom has loaded');
-    var router = function(name, routes){
-        return{
-            name:name,
-            routes: routes
-        }
-    };
-    
-    var myFirstRouter = new router('myFirstRouter'[
-       {
-           path: '/mainpage.html',
-           name: 'home'
-       },
-       {
-        path: '/about us',
-        name: 'about us'
-    }, 
-    {
-        path: '/brands',
-        name: 'brands'
-    }, 
-    {
-        path: '/blog',
-        name: 'blog'
-    }, 
-    {
-        path: '/events',
-        name: 'events'
-    }, 
-    {
-        path: '/shop',
-        name: 'shop'
-    },
-    {
-        path: '/contact',
-        name: 'contact'
-    }  
-    ]);
-    var currentPath = window.location.pathname;
-    console.log(currentPath)
-    if(currentPath == '/'){
-        
-    }else{
-        var route = myFirstRouter.routes.filter(function(r){
-            return r.path === currentPath
-        })[0];
-    }
-}

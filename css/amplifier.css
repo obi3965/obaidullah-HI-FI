@@ -7,16 +7,23 @@ body{
 .nav{
     width: 100%;
     background: rgb(206, 202, 202);
+    
 }
-.nav a{
-    color: #A39161!important;
-     
+.nav li{
+    color: #A39161!important; 
     background: none !important;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-top: 10px;
+    padding-left: 8px;
+}
+.nav li:hover{
+    color: rgb(29, 28, 28) !important;
 }
 #card1{
-    width: 240px;
+    width: 255px;
     float: left;
-    text-align: center;
+    
     list-style: none;
     
     margin: 20px 5px;
@@ -25,11 +32,26 @@ body{
 #output{
     width: 100%;
     padding: 6px;
+    height: auto;
 }
 #card1 li img{
    width: 100%;
-    margin-top: 0px; 
+   margin-top: 0px; 
+   border: 1px solid grey;
+   height: 100%;
 
+}
+#card1 li{
+   
+    font-size: 13px;
+    margin-top: 5px;
+    text-align: center;
+    word-break: break-all;
+    
+}
+ .navn{
+    
+    text-transform: capitalize !important;
 }
 #card1 li img:hover{
     border: 1px solid #A39161;
