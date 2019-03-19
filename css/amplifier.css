@@ -21,13 +21,14 @@ body{
     color: rgb(29, 28, 28) !important;
 }
 #card1{
-    width: 255px;
+    width: 210px;
     float: left;
-    
+    height: 280px;
     list-style: none;
-    
     margin: 20px 5px;
     padding-right: 47px;
+    background: green;
+    position: relative;
 }
 #output{
     width: 100%;
@@ -42,17 +43,16 @@ body{
 
 }
 #card1 li{
-   
-    font-size: 13px;
+    font-size: 12px;
     margin-top: 5px;
     text-align: center;
-    word-break: break-all;
-    
-}
- .navn{
-    
+    background: red;
+   
     text-transform: capitalize !important;
+    width: 150px;
+    word-break: keep-all;
 }
+ 
 #card1 li img:hover{
     border: 1px solid #A39161;
 }
@@ -62,7 +62,9 @@ body{
     padding:6px; 
     outline: none;
     border: none;
-    margin-top: 8px;
+    position: absolute;
+    bottom: 0px;
+    left: 18%;
 }
 #card1 button:hover{
     opacity: 0.75;
