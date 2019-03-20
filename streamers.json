@@ -1,0 +1,72 @@
+[
+    {
+        "id": 93,
+        "navn": "YAMAHA WXC-50 NETWORK PRE-AMP",
+        "pris": "£329.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/w/x/wxc50.png",
+        "kategori_id": 6
+    },
+    {
+        "id": 94,
+        "navn": "SONOS CONNECT MULTI-ROOM SYSTEM",
+        "pris": "£349.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/o/sonos_zp90_zoneplayer.jpg",
+        "kategori_id": 6
+    },
+    {
+        "id": 95,
+        "navn": "ARCAM RPLAY MUSIC STREAMER",
+        "pris": "£399.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/_/a_1_1.jpg",
+        "kategori_id": 6
+    },
+    {
+        "id": 96,
+        "navn": "YAMAHA WXA-50 NETWORK AMPLIFIER",
+        "pris": "£399.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/w/x/wxa50.png",
+        "kategori_id": 6
+    },
+    {
+        "id": 97,
+        "navn": "AUDIOLAB 6000N PLAY NETWORK STREAMER",
+        "pris": "£449.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/_/1_3_7.png",
+        "kategori_id": 6
+    },
+    {
+        "id": 98,
+        "navn": "SONOS CONNECT AMP MULTI-ROOM SYSTEM",
+        "pris": "£499.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/o/conamp.png",
+        "kategori_id": 6
+    },
+    {
+        "id": 99,
+        "navn": "BLUESOUND NODE 2I WIRELESS STREAMING PLAYER",
+        "pris": "£499.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/_/1_10_22.jpg",
+        "kategori_id": 6
+    },
+    {
+        "id": 100,
+        "navn": "CHORD POLY WIRELESS STREAMING MODULE",
+        "pris": "£499.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/p/ppoly.png",
+        "kategori_id": 6
+    },
+    {
+        "id": 101,
+        "navn": "MARANTZ NA8005 NETWORK AUDIO PLAYER",
+        "pris": "£499.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/8/0/8005_1.png",
+        "kategori_id": 6
+    },
+    {
+        "id": 102,
+        "navn": "ROTEL T14 TUNER",
+        "pris": "£699.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/t/1/t14.png",
+        "kategori_id": 6
+    }
+]

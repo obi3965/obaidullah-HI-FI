@@ -1,0 +1,72 @@
+[
+    {
+        "id": 103,
+        "navn": "CHORD C-SCREEN SPEAKER CABLE",
+        "pris": "£5.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/s/cscreen.png",
+        "kategori_id": 7
+    },
+    {
+        "id": 104,
+        "navn": "CHORD CLEARWAY SPEAKER CABLE",
+        "pris": "£10.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/l/clespe.png",
+        "kategori_id": 7
+    },
+    {
+        "id": 105,
+        "navn": "NAIM NAC A5 SPEAKER CABLE",
+        "pris": "£30.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/n/a/naimspeakercable_1.jpg",
+        "kategori_id": 7
+    },
+    {
+        "id": 106,
+        "navn": "CHORD C-SUB SUBWOOFER CABLE",
+        "pris": "£35.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/s/csub.png",
+        "kategori_id": 7
+    },
+    {
+        "id": 107,
+        "navn": "CHORD C-VIEW HDMI CABLE",
+        "pris": "£35.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/v/cview.png",
+        "kategori_id": 7
+    },
+    {
+        "id": 108,
+        "navn": "CHORD C-DIGITAL INTERCONNECT",
+        "pris": "£35.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/d/cdig.png",
+        "kategori_id": 7
+    },
+    {
+        "id": 109,
+        "navn": "CHORD C-LINE STEREO INTERCONNECT",
+        "pris": "£40.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/l/cline.jpg",
+        "kategori_id": 7
+    },
+    {
+        "id": 110,
+        "navn": "CHORD C-STREAM STREAMING CABLE",
+        "pris": "£40.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/s/cstream.png",
+        "kategori_id": 7
+    },
+    {
+        "id": 111,
+        "navn": "CHORD C-LITE OPTICAL INTERCONNECT",
+        "pris": "£45.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/l/clite3.png",
+        "kategori_id": 7
+    },
+    {
+        "id": 112,
+        "navn": "CHORD C-USB DIGITAL INTERCONNECT",
+        "pris": "£50.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/u/cusb.png",
+        "kategori_id": 7
+    }
+]

@@ -1,4 +1,6 @@
 
+    window.addEventListener('load',function(){
+
     
     var slider = document.querySelector('#heroslider');
     if (slider != null){
@@ -117,6 +119,15 @@
      document.querySelector('#btn3').addEventListener('click', ()=>{
         getCatagoryData("turntables")
     });
+    document.querySelector('#btn4').addEventListener('click', ()=>{
+        getCatagoryData("cdplayers")
+    });
+    document.querySelector('#btn5').addEventListener('click', ()=>{
+        getCatagoryData("streamers")
+    });
+    document.querySelector('#btn6').addEventListener('click', ()=>{
+        getCatagoryData("cables")
+    });
      //const urlParams = new URLSearchParams(window.location.search);
      //const amplifierID = urlParams.get('id');
      //we will create a function to getusers
@@ -140,34 +151,7 @@
             })
          }
      
-     /*
-     function getMovieTitle(data1){
-         var xmlhttp;
-         if(window.XMLHttpRequest){
-             xmlhttp = new XMLHttpRequest();
-         }else{
-             xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-         }
-         xmlhttp.onreadystatechange = function(){
-             if(xmlhttp.readyState == 4 && xmlhttp.status == 200){
-                 jsondata = JSON.parse(xmlhttp.responseText);
-                 var catagories = jsondata.catagory;
-                 var output = '<form>';
-                   output+='<select id="movie_select" onchange="movieSelect"';
-                 ;
      
-                 data1.forEach(function(catagory){
-                     output+=  '<option value="+i+">'+catagory[i].price+'</option>';
-                 })
-                 output+='</select';
-                 output+='</form>';
-                 document.getElementById("movie_title").innerHTML = output;
-             }
-             
-         }
-         xmlhttp.open("GET","catagory.json", true);
-         xmlhttp.send();
-     }*/
      
      
      let dropdown = document.getElementById('locality-dropdown');
@@ -199,8 +183,7 @@
          console.error('Fetch Error -', err);  
        });
      
-     
-     
+    })
        
 
 

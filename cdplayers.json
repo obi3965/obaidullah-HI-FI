@@ -1,0 +1,72 @@
+[
+    {
+        "id": 83,
+        "navn": "AUDIOLAB 6000CDT CD TRANSPORT",
+        "pris": "£379.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/6/0/6000cdt_20180923041350_948.jpg",
+        "kategori_id": 5
+    },
+    {
+        "id": 84,
+        "navn": "MARANTZ CD6006 UK EDITION CD PLAYER",
+        "pris": "£399.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/u/k/uk_cd.png",
+        "kategori_id": 5
+    },
+    {
+        "id": 85,
+        "navn": "DENON DCD-100 CD PLAYER",
+        "pris": "£449.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/7/1/71b3yo1wihl._sl1500_.jpg",
+        "kategori_id": 5
+    },
+    {
+        "id": 86,
+        "navn": "ROTEL CD14 CD PLAYER",
+        "pris": "£499.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/d/cd14_silver.jpg",
+        "kategori_id": 5
+    },
+    {
+        "id": 87,
+        "navn": "DENON DCD-1600NE CD PLAYER",
+        "pris": "£699.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_32.png",
+        "kategori_id": 5
+    },
+    {
+        "id": 88,
+        "navn": "ARCAM HDA CDS50 SACD/CD PLAYER AND NETWORK STREAMER",
+        "pris": "£699.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/r/arcam_cds50_front_top_4.jpg",
+        "kategori_id": 5
+    },
+    {
+        "id": 89,
+        "navn": "TECHNICS SC-C70 OTTAVA ALL-IN-ONE HI-FI SYSTEM",
+        "pris": "£279.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/a/aa_1.png",
+        "kategori_id": 5
+    },
+    {
+        "id": 90,
+        "navn": "ROTEL RCD-1572 CD PLAYER",
+        "pris": "£845.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/5/1572.jpg",
+        "kategori_id": 5
+    },
+    {
+        "id": 91,
+        "navn": "TECHNICS SL-C700 CD PLAYER",
+        "pris": "£849.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/t/st700.png",
+        "kategori_id": 5
+    },
+    {
+        "id": 92,
+        "navn": "PRO-JECT CD BOX RS CD PLAYER",
+        "pris": "£899.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/j/pj-bd-cdboxrs-black.png",
+        "kategori_id": 5
+    }
+]
