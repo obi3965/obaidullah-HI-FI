@@ -5,349 +5,350 @@
             "image":"http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/n/rn4023.png",
             "navn":"YAMAHA R-N402 NETWORK HIFI RECEIVER",
             "pris":"£329.00",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id":2,
             "image":"http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/1/a10_silver.jpg",
             "navn":"ROTEL A10 STEREO AMPLIFIER",
             "pris":"£389.95",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 3,
             "navn": "MARANTZ PM6006 UK EDITION INTEGRATED AMPLIFIER",
             "pris":"£429",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/x/l/xl_pm6006_n_sg_fr.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 4,
             "navn": "YAMAHA A-S701 STEREO AMPLIFIER",
             "pris":" £579",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/s/as701.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 5,
             "navn": "AUDIOLAB 6000A STEREO INTEGRATED AMPLIFIER",
             "pris":" £599",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/l/alb_6000a_3_bg.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 6,
             "navn": "QUAD VENA MINI HIFI SYSTEM",
             "pris":" £599",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/v/e/vena.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 7,
             "navn": "MARANTZ MM7025 POWER AMPLIFIER",
             "pris":" £699",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/m/mm7025.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 8,
             "navn": "ARCAM HDA SA10 INTEGRATED AMPLIFIER",
             "pris":" £699",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/r/arcam_sa10_front_top.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 9,
             "navn": "ROTEL A12 STEREO AMPLIFIER",
             "pris":" £699",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/1/a12_black.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 10,
             "navn": "NAIM NAP 100 POWER AMPLIFIER",
             "pris":" £799",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/o/download_10_40557060-ea73-4a95-bdff-5dc71d8787ed_grande.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 11,
             "navn": "MERIDIAN 218 ZONE CONTROLLER",
             "pris":" £800",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/o/download_10_40557060-ea73-4a95-bdff-5dc71d8787ed_grande.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 12,
             "navn": "ROTEL RB 1552 MKII STEREO AMPLIFIER",
             "pris":" £845",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/b/rb1552mkii_silver_0.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 13,
             "navn": "ROTEL RC 1570 PRE AMPLIFIER",
             "pris":" £845",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/c/rc1570_black_0.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 14,
             "navn": "ROTEL A14 INTEGRATED AMPLIFIER",
             "pris":" £899",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/1/a14_silver_2.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 15,
             "navn": "AUDIOLAB 8300A STEREO AMPLIFIER",
             "pris":" £899.95",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/8/3/8300a.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 16,
             "navn": "GRAHAM SLEE ACCESSION MM PHONO STAGE PRE AMPLIFIER",
             "pris":" £935",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/c/accession-black-left-side.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 17,
             "navn": "DENON PMA-1600NE INTEGRATED AMPLIFIER",
             "pris":" £999.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_33.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 18,
             "navn": "ARCAM HDA SA20 INTEGRATED AMPLIFIER",
             "pris":" £999.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/r/arcam_sa20_front_top.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 19,
             "navn": "QUAD II-CLASSIC POWER AMPLIFIER",
             "pris":" £999.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/i/i/iiclas3.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 20,
             "navn": "QUAD QC 24 PRE-AMPLIFIER",
             "pris":" £999.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/q/c/qc242.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 21,
             "navn": "AUDIOLAB 8300MB MONO BLOCK POWER AMPLIFIER",
             "pris":" £999.95",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/8/3/8300mb4.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 22,
             "navn": "ERIDIAN AUDIO CORE 200 STEREO SPEAKER CONTROLLER",
             "pris":" £999.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/c/ac200-white-on-white-head-on2_1024x1024.jpeg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 23,
             "navn": "NAIM NAIT 5SI STEREO AMPLIFIER",
             "pris":" £1,029.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/n/a/nait5si_front_10pc_1.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 24,
             "navn": "MARANTZ PM8006 INTEGRATED AMPLIFIER",
             "pris":" £1,099.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/_/a_8.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 25,
             "navn": "YAMAHA A-S1100 STEREO AMPLIFIER",
             "pris":" £1,149.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/s/as11005.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 26,
             "navn": "QUAD ARTERA+ PLAY CD PLAYER, DAC & PRE-AMP",
             "pris":" £1,199.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/x/f/xfbdxfghfgj.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 27,
             "navn": "GRAHAM SLEE ACCESSION MC PHONO STAGE PRE AMPLIFIER",
             "pris":" £1,200.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/c/accessionmc700.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 28,
             "navn": "MERIDIAN 251 ZONE CONTROLLER",
             "pris":" £1,250.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/o/download_10_40557060-ea73-4a95-bdff-5dc71d8787ed_grande_2.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 29,
             "navn": "AUDIOLAB 8300XP STEREO POWER AMPLIFIER",
             "pris":" £1,299.95",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/8/3/8300xp_20170927234716_814.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 30,
             "navn": "ROTEL RA-1570 STEREO AMPLIFIER",
             "pris":" £1,345.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/5/1570_1.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 31,
             "navn": "PRIMARE SC15 PRISMA PRE-AMPLIFIER AND NETWORK STREAMER",
             "pris":"£1,350.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/c/sc15.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 32,
             "navn": "ROTEL RC 1590 PRE AMPLIFIER",
             "pris":"£1,495.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/c/rc1590_black.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 32,
             "navn": "QUAD ARTERA SOLUS",
             "pris":"£1,499.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/2/_/2_5_7.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 33,
             "navn": "QUAD ARTERA STEREO POWER AMPLIFIER",
             "pris":"£1,499.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/r/artste1.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 34,
             "navn": "MERIDIAN 258 8 CHANNEL POWER AMPLIFIER",
             "pris":"£1,500.00",
-            "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/e/meridian-258-power-amplifier.jpg"
+            "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/e/meridian-258-power-amplifier.jpg",
+            "kategori_id": 2
         },
         {
             "id": 35,
             "navn": "MERIDIAN 271 DIGITAL THEATRE CONTROLLER",
             "pris":"£1,500.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/o/download_10_40557060-ea73-4a95-bdff-5dc71d8787ed_grande_3.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 36,
             "navn": "QUAD II-FORTY POWER AMPLIFIERS",
             "pris":"£1,500.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/i/i/ii404.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 37,
             "navn": "ARCAM P429 POWER AMPLIFIER",
             "pris":"£1,599.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/j/djhf.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 38,
             "navn": "PRIMARE I15 PRISMA INTEGRATED AMPLIFIER",
             "pris":"£1,600.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_1_5.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 39,
             "navn": "YAMAHA A-S2100 STEREO AMPLIFIER",
             "pris":"£1,645.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/s/as21002.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 40,
             "navn": "SUGDEN MASTERCLASS HA-4 HEADPHONE PRE AMPLIFIER",
             "pris":"£1,695.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_1_12.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 41,
             "navn": "PRIMALUNA PROLOGUE CLASSIC INTEGRATED AMPLIFIER",
             "pris":"£1,698.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/r/procloasint.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 42,
             "navn": "LINN MAJIK POWER AMPLIFIER",
             "pris":"£1,710.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/a/majik2100_blk_front_rgb_72dpi.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 43,
             "navn": "ATC CA2 STEREO PRE-AMPLIFIER",
             "pris":"£1,775.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_20.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 44,
             "navn": "DENON PMA-2500NE STEREO AMPLIFIER",
             "pris":"£1,899.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/2/5/2500.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 45,
             "navn": "NAIM NAIT XS 2 STEREO AMPLIFIER",
             "pris":"£1,979.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/n/a/naitxs2_from-3-4.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 46,
             "navn": "PRIMALUNA PROLOGUE PREMIUM PREAMPLIFIER",
             "pris":"£1,998.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/r/proprepre.png",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 47,
             "navn": "SENNHEISER HDV 820 HEADPHONE AMPLIFIER",
             "pris":"£2,089.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/4/2/425_large_1.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 48,
             "navn": "ROTEL RA 1592 INTEGRATED AMPLIFIER",
             "pris":"£2,095.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/a/ra-1592_black_295_300.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         },
         {
             "id": 49,
             "navn": "SUGDEN A21 SERIES 2 STEREO INTEGRATED AMPLIFIER",
             "pris":"£2,140.00",
             "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/2/a21a.jpg",
-            "kategori_id": 1
+            "kategori_id": 2
         }
          ]
 

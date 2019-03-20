@@ -4,210 +4,210 @@
         "image":"http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/n/rn4023.png",
         "navn":"yamaha r-n402 network hifi receiver",
         "pris":"£329.00",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id":2,
         "image":"http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/1/a10_silver.jpg",
         "navn":"ROTEL A10 STEREO AMPLIFIER",
         "pris":"£389.95",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 3,
         "navn": "MARANTZ PM6006 UK EDITION INTEGRATED AMPLIFIER",
         "pris":"£429",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/x/l/xl_pm6006_n_sg_fr.png",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 4,
         "navn": "YAMAHA A-S701 STEREO AMPLIFIER",
         "pris":" £579",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/s/as701.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 5,
         "navn": "AUDIOLAB 6000A STEREO INTEGRATED AMPLIFIER",
         "pris":" £599",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/l/alb_6000a_3_bg.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 6,
         "navn": "QUAD VENA MINI HIFI SYSTEM",
         "pris":" £599",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/v/e/vena.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 7,
         "navn": "MARANTZ MM7025 POWER AMPLIFIER",
         "pris":" £699",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/m/mm7025.png",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 8,
         "navn": "ARCAM HDA SA10 INTEGRATED AMPLIFIER",
         "pris":" £699",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/r/arcam_sa10_front_top.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 9,
         "navn": "ROTEL A12 STEREO AMPLIFIER",
         "pris":" £699",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/1/a12_black.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 10,
         "navn": "NAIM NAP 100 POWER AMPLIFIER",
         "pris":" £799",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/o/download_10_40557060-ea73-4a95-bdff-5dc71d8787ed_grande.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 11,
         "navn": "MERIDIAN 218 ZONE CONTROLLER",
         "pris":" £800",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/o/download_10_40557060-ea73-4a95-bdff-5dc71d8787ed_grande.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 12,
         "navn": "ROTEL RB 1552 MKII STEREO AMPLIFIER",
         "pris":" £845",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/b/rb1552mkii_silver_0.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 13,
         "navn": "ROTEL RC 1570 PRE AMPLIFIER",
         "pris":" £845",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/c/rc1570_black_0.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 14,
         "navn": "ROTEL A14 INTEGRATED AMPLIFIER",
         "pris":" £899",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/1/a14_silver_2.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 15,
         "navn": "AUDIOLAB 8300A STEREO AMPLIFIER",
         "pris":" £899.95",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/8/3/8300a.png",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 16,
         "navn": "GRAHAM SLEE ACCESSION MM PHONO STAGE PRE AMPLIFIER",
         "pris":" £935",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/c/accession-black-left-side.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 17,
         "navn": "DENON PMA-1600NE INTEGRATED AMPLIFIER",
         "pris":" £999.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_33.png",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 18,
         "navn": "ARCAM HDA SA20 INTEGRATED AMPLIFIER",
         "pris":" £999.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/r/arcam_sa20_front_top.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 19,
         "navn": "QUAD II-CLASSIC POWER AMPLIFIER",
         "pris":" £999.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/i/i/iiclas3.png",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 20,
         "navn": "QUAD QC 24 PRE-AMPLIFIER",
         "pris":" £999.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/q/c/qc242.png",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 21,
         "navn": "AUDIOLAB 8300MB MONO BLOCK POWER AMPLIFIER",
         "pris":" £999.95",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/8/3/8300mb4.png",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 22,
         "navn": "ERIDIAN AUDIO CORE 200 STEREO SPEAKER CONTROLLER",
         "pris":" £999.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/c/ac200-white-on-white-head-on2_1024x1024.jpeg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 23,
         "navn": "NAIM NAIT 5SI STEREO AMPLIFIER",
         "pris":" £1,029.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/n/a/nait5si_front_10pc_1.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 24,
         "navn": "MARANTZ PM8006 INTEGRATED AMPLIFIER",
         "pris":" £1,099.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/_/a_8.png",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 25,
         "navn": "YAMAHA A-S1100 STEREO AMPLIFIER",
         "pris":" £1,149.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/s/as11005.png",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 26,
         "navn": "QUAD ARTERA+ PLAY CD PLAYER, DAC & PRE-AMP",
         "pris":" £1,199.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/x/f/xfbdxfghfgj.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 27,
         "navn": "GRAHAM SLEE ACCESSION MC PHONO STAGE PRE AMPLIFIER",
         "pris":" £1,200.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/c/accessionmc700.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 28,
         "navn": "MERIDIAN 251 ZONE CONTROLLER",
         "pris":" £1,250.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/o/download_10_40557060-ea73-4a95-bdff-5dc71d8787ed_grande_2.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 29,
         "navn": "AUDIOLAB 8300XP STEREO POWER AMPLIFIER",
         "pris":" £1,299.95",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/8/3/8300xp_20170927234716_814.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
     {
         "id": 30,
         "navn": "ROTEL RA-1570 STEREO AMPLIFIER",
         "pris":" £1,345.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/5/1570_1.jpg",
-        "kategori_id": 1
+        "kategori_id": 2
     },
 
    
@@ -227,35 +227,35 @@
         "navn": "LUESOUND PULSE FLEX 2I WIRELESS SPEAKER",
         "pris": "£299.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/u/h/uhahfxle9zp62etpgs8e4j-480-80.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 32,
         "navn": "KEF C4 SUBWOOFER",
         "pris": "£299.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/4/c4.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 33,
         "navn": "B&W ASW608 SUBWOOFER",
         "pris":"£349.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/s/asw608_white_grille_off_angle.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 34,
         "navn": "VELODYNE IMPACT 10 SUBWOOFER",
         "pris": "£395.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/i/m/impact_10.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 35,
         "navn": "WHARFEDALE REVA-C CENTRE SPEAKER",
         "pris": "£395.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/e/revac10.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -263,7 +263,7 @@
         "navn": "WHARFEDALE REVA-C CENTRE SPEAKER",
         "pris": "£395.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/e/revac10.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -271,7 +271,7 @@
         "navn": "B&W HTM6 CENTRE SPEAKER",
         "pris": "£399.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/6/3/63254_1_.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -279,7 +279,7 @@
         "navn": "SONOS BEAM WIRELESS SPEAKER",
         "pris": "£399.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/f/i/file_5.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -287,7 +287,7 @@
         "navn": "B&W 607 STANDMOUNT SPEAKERS",
         "pris": "£399.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/_/1_10_14.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -295,7 +295,7 @@
         "navn": "KEF Q150 STANDMOUNT SPEAKERS",
         "pris": "£430.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/k/e/kef_q150_white.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -303,7 +303,7 @@
         "navn": "WHARFEDALE REVA-1 STANDMOUNT SPEAKERS",
         "pris": "£445.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/e/reva18.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -311,7 +311,7 @@
         "navn": "FOCAL ARIA CC 900 CENTRE SPEAKER",
         "pris": "£449.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/c/cc9001.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -319,7 +319,7 @@
         "navn": "WHARFEDALE DX-2 HOME CINEMA 5.1 SPEAKER PACK",
         "pris": "£449.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/4/0/400324.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -327,7 +327,7 @@
         "navn": "KEF Q50A DOLBY ATMOS ENABLED SURROUND SPEAKERS",
         "pris": "£449.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/_/a_10.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -335,7 +335,7 @@
         "navn": "B&W AM-1 OUTDOOR SPEAKERS",
         "pris": "£450.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/b/_/b_w_am_1a.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -343,7 +343,7 @@
         "navn": "ATC HTS7 ON-WALL SPEAKER",
         "pris": "£475.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/t/atc-hts7-on-wall-speaker-_single_-black_2.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -351,7 +351,7 @@
         "navn": "CASTLE AVON C CENTRE SPEAKER",
         "pris": "£479.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/v/avonc1.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -359,7 +359,7 @@
         "navn": "VELODYNE IMPACT 12 SUBWOOFER",
         "pris": "£485.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/i/m/impact_10_1.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -367,7 +367,7 @@
         "navn": "QUAD S-1 STANDMOUNT SPEAKERS",
         "pris": "£499.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/1/s11.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -375,7 +375,7 @@
         "navn": "&W ASW610 SUBWOOFER",
         "pris": "£499.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/6/1/610_1.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -383,7 +383,7 @@
         "navn": "BLUESOUND PULSE MINI 2I WIRELESS SPEAKER",
         "pris": "£499.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/u/pulse-mini-2i-blk-front.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -391,7 +391,7 @@
         "navn": "QUAD S-C CENTRE CHANNEL",
         "pris": "£499.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/c/sc8.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
 
     {
@@ -399,140 +399,140 @@
         "navn": "KEF KUBE8B SUBWOOFER",
         "pris": "£500.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_36_1.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 54,
         "navn": "KEF Q350 STANDMOUNT SPEAKERS",
         "pris": "£530.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/k/e/kef_q350_black.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 55,
         "navn": "B&W DS3 SURROUND SPEAKERS",
         "pris": "£549.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/f/i/file_12_137.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 56,
         "navn": "B&W 606 STANDMOUNT SPEAKERS",
         "pris": "£549.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/6/3/63250_1_.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 57,
         "navn": "KEF Q650C CENTRE SPEAKER",
         "pris": "£550.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/k/e/kef_q650_side2_black_2_1.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 58,
         "navn": "WHARFEDALE REVA-2 STANDMOUNT SPEAKERS",
         "pris": "£595.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/e/reva212_1.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 59,
         "navn": "BLUESOUND PULSE SUB WIRELESS SUBWOOFER",
         "pris": "£599.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/u/pulse-sub-front-with-grill-black-1.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 60,
         "navn": "B&W HTM72 S2 CENTRE CHANNEL SPEAKER",
         "pris": "£599.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/t/htm72_s2_gloss_black_grille_off.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 61,
         "navn": "KEF T2 SUBWOOFER",
         "pris": "£599.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/t/2/t21.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 62,
         "navn": "WHARFEDALE DIAMOND ACTIVE A1 WIRELESS SPEAKERS",
         "pris": "£599.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/w/0/w00101_20161014160901_1550.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 63,
         "navn": "QUAD S-2 STANDMOUNT SPEAKERS",
         "pris": "£599.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/2/s28.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 64,
         "navn": "CASTLE AVON 1 STANDMOUNT SPEAKERS",
         "pris": "£599.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/v/avon12.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 65,
         "navn": "KEF KUBE10B SUBWOOFER",
         "pris": "£600.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_36.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 66,
         "navn": "KEF R200C CENTRE SPEAKERS",
         "pris": "£649.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/4/14064-r200c_hres.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 67,
         "navn": "ATC HTS11 ON-WALL SPEAKER",
         "pris": "£499.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_10.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 68,
         "navn": "SONOS PLAYBASE WIRELESS SPEAKER",
         "pris": "£699.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/o/sonos_photo_tableproducts_sol_10_small_cmyk_2.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 69,
         "navn": "CASTLE AVON 2 STANDMOUNT SPEAKERS",
         "pris": "£699.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/a/v/avon23.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 70,
         "navn": "B&W ASW610XP SUBWOOFER",
         "pris": "£699.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/3/-/3-asw610xp_red_cherry_grille_on.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 71,
         "navn": "SONOS SUB",
         "pris": "£699.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/o/sonos-sub.jpg",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     {
         "id": 72,
         "navn": "KEF KUBE12B SUBWOOFER",
         "pris": "£700.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/a/capture_37.png",
-        "kategori_id": 2
+        "kategori_id": 3
     },
     
 
@@ -559,71 +559,74 @@
         "navn": "PRO-JECT PRIMARY E TURNTABLE",
         "pris": "£149.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/r/pri4.png",
-        "kategori_id": 3
+        "kategori_id": 4
     },
     {
         "id": 74,
         "navn": "PRO-JECT ELEMENTAL HI-FI TURNTABLE",
         "pris": "£175.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/e/l/elemental.png",
-        "kategori_id": 3
+        "kategori_id": 4
     },
     {
         "id": 75,
         "navn": "PRO-JECT PRIMARY TURNTABLE",
         "pris": "£199.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/r/pri4_2.png",
-        "kategori_id": 3
+        "kategori_id": 4
     },
     {
         "id": 76,
         "navn": "PRO-JECT ELEMENTAL USB HI-FI TURNTABLE",
         "pris": "£229.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/e/l/elementalwhite_2.png",
-        "kategori_id": 3
+        "kategori_id": 4
     },
     {
         "id": 77,
         "navn": "PRO-JECT ESSENTIAL III TURNTABLE",
         "pris": "£239.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/r/pri5_1.png",
-        "kategori_id": 3
+        "kategori_id": 4
     },
     {
         "id": 78,
         "navn": "PRO-JECT VT-E TURNTABLE",
         "pris": "£269.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/v/t/vt-e_2.png",
-        "kategori_id": 3
+        "kategori_id": 4
     },
     {
         "id": 79,
         "navn": "PRO-JECT ESSENTIAL III PHONO TURNTABLE",
         "pris": "£279.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/3/4/345_1.png",
-        "kategori_id": 3
+        "kategori_id": 4
     },
     {
         "id": 80,
         "navn": "PRO-JECT DEBUT RECORDMASTER TURNTABLE",
         "pris": "£279.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/m/rm6.png",
-        "kategori_id": 3
+        "kategori_id": 4
     },
     {
         "id": 81,
         "navn": "PRO-JECT ESSENTIAL III A TURNTABLE",
         "pris": "£279.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/e/s/ess3a5.png",
-        "kategori_id": 3
+        "kategori_id": 4
     },
     {
         "id": 82,
         "navn": "PRO-JECT DEBUT S/E3 HI-FI TURNTABLE",
         "pris": "£285.00",
         "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/e/debutseproductshot1.jpg",
-        "kategori_id": 3
+        "kategori_id": 4
     },
+
+
+    
     {
         "id": 78,
         "navn": "WHARFEDALE REVA-C CENTRE SPEAKER",

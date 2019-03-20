@@ -1,0 +1,72 @@
+[
+    {
+        "id": 73,
+        "navn": "PRO-JECT PRIMARY E TURNTABLE",
+        "pris": "£149.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/r/pri4.png",
+        "kategori_id": 4
+    },
+    {
+        "id": 74,
+        "navn": "PRO-JECT ELEMENTAL HI-FI TURNTABLE",
+        "pris": "£175.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/e/l/elemental.png",
+        "kategori_id": 4
+    },
+    {
+        "id": 75,
+        "navn": "PRO-JECT PRIMARY TURNTABLE",
+        "pris": "£199.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/r/pri4_2.png",
+        "kategori_id": 4
+    },
+    {
+        "id": 76,
+        "navn": "PRO-JECT ELEMENTAL USB HI-FI TURNTABLE",
+        "pris": "£229.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/e/l/elementalwhite_2.png",
+        "kategori_id": 4
+    },
+    {
+        "id": 77,
+        "navn": "PRO-JECT ESSENTIAL III TURNTABLE",
+        "pris": "£239.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/r/pri5_1.png",
+        "kategori_id": 4
+    },
+    {
+        "id": 78,
+        "navn": "PRO-JECT VT-E TURNTABLE",
+        "pris": "£269.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/v/t/vt-e_2.png",
+        "kategori_id": 4
+    },
+    {
+        "id": 79,
+        "navn": "PRO-JECT ESSENTIAL III PHONO TURNTABLE",
+        "pris": "£279.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/3/4/345_1.png",
+        "kategori_id": 4
+    },
+    {
+        "id": 80,
+        "navn": "PRO-JECT DEBUT RECORDMASTER TURNTABLE",
+        "pris": "£279.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/r/m/rm6.png",
+        "kategori_id": 4
+    },
+    {
+        "id": 81,
+        "navn": "PRO-JECT ESSENTIAL III A TURNTABLE",
+        "pris": "£279.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/e/s/ess3a5.png",
+        "kategori_id": 4
+    },
+    {
+        "id": 82,
+        "navn": "PRO-JECT DEBUT S/E3 HI-FI TURNTABLE",
+        "pris": "£285.00",
+        "image": "http://store.hificorner.co.uk/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/e/debutseproductshot1.jpg",
+        "kategori_id": 4
+    }
+]

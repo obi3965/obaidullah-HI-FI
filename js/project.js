@@ -113,6 +113,10 @@
      document.querySelector('#btn2').addEventListener('click', ()=>{
          getCatagoryData("speakers")
      });
+
+     document.querySelector('#btn3').addEventListener('click', ()=>{
+        getCatagoryData("turntables")
+    });
      //const urlParams = new URLSearchParams(window.location.search);
      //const amplifierID = urlParams.get('id');
      //we will create a function to getusers

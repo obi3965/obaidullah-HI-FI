@@ -7,7 +7,7 @@ body{
 .nav{
     width: 100%;
     background: rgb(206, 202, 202);
-    
+    margin-top: 30px;
 }
 .nav li{
     color: #A39161!important; 
@@ -23,34 +23,43 @@ body{
 #card1{
     width: 210px;
     float: left;
-    height: 280px;
+    height: 290px;
     list-style: none;
-    margin: 20px 5px;
-    padding-right: 47px;
-    background: green;
+    margin: 20px 35px 15px -10px;
+    padding-bottom: 12px;
     position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.10);
+    border-radius: 8px;
+    transition:  all ease-in-out 300ms;
+    padding-top: 6px;
+}
+#card1:hover{
+    /*box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.2);*/
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: translate(0px, -6px);
 }
 #output{
     width: 100%;
     padding: 6px;
     height: auto;
+    margin-top: 30px;
 }
 #card1 li img{
    width: 100%;
    margin-top: 0px; 
-   border: 1px solid grey;
    height: 100%;
-
+   border: 1px solid #000;
+   border-radius: 8px;
 }
 #card1 li{
     font-size: 12px;
     margin-top: 5px;
     text-align: center;
-    background: red;
-   
     text-transform: capitalize !important;
     width: 150px;
     word-break: keep-all;
+    margin-left: -10px;
+    cursor: pointer;
 }
  
 #card1 li img:hover{
@@ -63,7 +72,7 @@ body{
     outline: none;
     border: none;
     position: absolute;
-    bottom: 0px;
+    bottom: 10px;
     left: 18%;
 }
 #card1 button:hover{
