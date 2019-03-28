@@ -23,3 +23,41 @@ body{
     padding: 15px;
     
 }
+
+@media(max-width:449px){
+    #event-section1, #event-section2, #event-section3, #event-section4{
+        width: 95%;
+        margin:25px auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .event-image1{
+        width: 100%;
+        display: block;
+    }
+    .event-image1 img{
+        width: 100%;
+    }
+    .event-image2{
+        width: 100%;
+        height: 100%;
+    }
+    .event-image2 img{
+        height: 200px;
+        width: 100%;
+    }
+    .event-desc, .event-desc2{
+        width: 100%;
+        background: rgb(228, 225, 225);
+        text-align: center;
+        padding: 15px;
+        
+    }
+    .event-desc p, .event-desc2 p {
+        font-size: 16px;
+        text-align: justify;
+        word-break: keep-all;
+    }
+    
+}

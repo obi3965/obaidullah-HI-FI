@@ -121,3 +121,29 @@ body{
     width: 90%;
     margin: auto;
 }
+
+
+@media(max-width:449px){
+    #brand-section{
+        width: 96%;
+        margin: 30px auto;
+        background: #e67e22;
+        display: flex;
+        justify-content: center;
+         flex-wrap: wrap;
+         height: auto;
+    }
+    .brand2 img{
+        max-height:100% ;
+        
+    }
+    .brand2-text p{
+        font-size: 15px;
+        text-align: justify;
+        word-break: keep-all;
+    }
+    .brand1-text h4{
+        font-size: 19px;
+        text-align: center;
+    }
+}
